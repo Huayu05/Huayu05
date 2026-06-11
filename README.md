@@ -20,7 +20,7 @@
 - 🏆 **Top Quadrant Award** @ Meta Research internship (2025)
 - 🥋 Taekwondo Black Belt, 2nd Dan
 - ♟️ Founder & VP — UoSM Cards & Boardgames Club
-- 💬 Ask me about: Haskell, embedded C++, React, or energy monitoring systems
+- 💬 Ask me about: Haskell, embedded C++, or energy monitoring systems
 
 ---
 
@@ -33,6 +33,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
