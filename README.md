@@ -63,23 +63,36 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>⚡ Synergy6 — Smart Home Energy System</h3>
-      <p>Full-stack IoT energy monitoring dashboard. Real-time control of home appliances via ESP32, PZEM-004T power sensor, and relay modules. Complete software stack: dynamic charts, weather API, automated rule engine, cross-platform packaging.</p>
+      <h3>🤖 DecideAI — UMHackathon 2026</h3>
+      <p>RAG-based decision intelligence tool for Malaysian SMEs. Built end-to-end during UMHackathon 2026 with Team 404_Not_Found.</p>
+      <img src="./images/DecideAI.png" width="300" height="200"/>
+      <br/><br/>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      </p>
+      <p>
+        <a href="https://github.com/OswaldLim/UMHackathon">🔗 View Repo</a>
+        &nbsp;&nbsp;
+        <a href="">🌐 View Website</a>
       </p>
     </td>
     <td width="50%">
       <h3>🌐 Lunch Solution — Full-Stack Web App</h3>
       <p>End-to-end web application with REST backend, relational database schema, and Google API integration. Deployed publicly on Vercel with CI/CD pipeline.</p>
+      <img src="./images/Lunch_Solution.png" width="300" height="200"/>
+      <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+      </p>
+      <p>
+        <a href="">🔗 View Repo</a>
+        &nbsp;&nbsp;
+        <a href="">🌐 View Website</a>
       </p>
     </td>
   </tr>
@@ -87,19 +100,29 @@
     <td width="50%">
       <h3>🧮 Scientific Calculator DSL</h3>
       <p>Complete language pipeline built from scratch in Haskell: lexer (Alex) → parser (Happy) → type checker → evaluator → interactive REPL. Supports arithmetic, let-bindings, and conditionals.</p>
+      <img src="./images/Scientific_Calculator.png" width="300" height="200"/>
+      <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white"/>
       </p>
+      <p>
+        <a href="">🔗 View Repo</a>
+      </p>
     </td>
     <td width="50%">
-      <h3>🤖 DecisionAI — UMHackathon 2026</h3>
-      <p>RAG-based decision intelligence tool for Malaysian SMEs. Built end-to-end during UMHackathon 2026 with Team 404_Not_Found.</p>
+      <h3>⚡ Synergy6 — Smart Home Energy System</h3>
+      <p>Full-stack IoT energy monitoring dashboard. Real-time control of home appliances via ESP32, PZEM-004T power sensor, and relay modules. Complete software stack: dynamic charts, weather API, automated rule engine, cross-platform packaging.</p>
+      <img src="./images/Synergy6_Hardware.png" width="300" height="200"/>
+      <br/><br/>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
       </p>
-      <a href="https://github.com/OswaldLim/UMHackathon">🔗 View Repo</a>
+      <p>
+        <a href="">🔗 View Repo</a>
+      </p>
     </td>
   </tr>
 </table>
