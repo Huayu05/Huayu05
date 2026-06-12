@@ -100,8 +100,9 @@
     <td width="50%" valign="top">
       <h3>🧮 Scientific Calculator DSL</h3>
       <p>Complete language pipeline built from scratch in Haskell: lexer (Alex) → parser (Happy) → type checker → evaluator → interactive REPL. Supports arithmetic, let-bindings, and conditionals.</p>
+      <br/>
       <img src="./images/Scientific_Calculator.png" width="300" height="200"/>
-      <br/><br/><br/>
+      <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white"/>
       </p>
