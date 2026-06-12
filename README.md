@@ -100,7 +100,6 @@
     <td width="50%" valign="top">
       <h3>🧮 Scientific Calculator DSL</h3>
       <p>Complete language pipeline built from scratch in Haskell: lexer (Alex) → parser (Happy) → type checker → evaluator → interactive REPL. Supports arithmetic, let-bindings, and conditionals.</p>
-      <br/>
       <img src="./images/Scientific_Calculator.png" width="300" height="200"/>
       <br/><br/>
       <p>
@@ -111,7 +110,7 @@
       <h3>⚡Smart Home Energy System</h3>
       <p>Full-stack IoT energy monitoring dashboard. Real-time control of home appliances via ESP32, PZEM-004T power sensor, and relay modules. Complete software stack: dynamic charts, weather API, automated rule engine, cross-platform packaging.</p>
       <img src="./images/Synergy6_Hardware.png" width="300" height="200"/>
-      <br/>
+      <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
